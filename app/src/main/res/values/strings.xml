@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemesAndMemes</string>
+    <string name="sharememe">shareMeme</string>
+    <string name="prev">Prev</string>
+    <string name="memeview">memeView</string>
+    <string name="next">next</string>
+    <string name="share">share</string>
+</resources>
